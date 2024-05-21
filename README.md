@@ -1,2 +1,2 @@
 # fabonacci
-This is a program on Fabonacci series
+This is a program on matrix determinat evaluation
